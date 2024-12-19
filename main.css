@@ -1,0 +1,67 @@
+h1 {
+    background-color: cadetblue;
+    color: blue;
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.sariq {
+    background-color: yellow;
+    color: black;
+}
+
+span {
+    color: red;
+}
+
+h3 {
+    color: green;
+}
+
+h2 {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+.kotta {
+    color: green;
+    font-size: 35px;
+}
+
+.in {
+    width: 80%;
+    height: 50px;
+}
+
+.ota {
+    list-style: none;
+}
+
+button {
+    background-color: cadetblue;
+    color: black;
+    font-size: 35px;
+    width: 300px;
+}
+
+table {
+    width: 80%;
+    text-align: center;
+}
+
+.kok {
+    background-color: blue;
+    color: white;
+}
+
+.qizill {
+    background-color: red;
+    color: white;
+}
+
+.qora {
+    background-color: black;
+    color: white;
+}
